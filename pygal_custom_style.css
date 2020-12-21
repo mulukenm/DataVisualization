@@ -1,0 +1,45 @@
+
+    {{ id }}text {
+    fill: green;
+    font-family: monospace;
+    }
+    {{ id }}.legends .legend text {
+    font-size: {{ font_sizes.legend }};
+    }
+    {{ id }}.axis {
+    stroke: #666;
+    }
+    {{ id }}.axis text {
+    font-size: {{ font_sizes.label }};
+    font-family: sans;
+    stroke: none;
+    }
+    {{ id }}.axis.y text {
+    text-anchor: end;
+    }
+    {{ id }}#tooltip text {
+    font-size: {{ font_sizes.tooltip }};
+    }
+    {{ id }}.dot {
+    fill: yellow;
+    }
+    {{ id }}.color-0 {
+    stroke: #ff1100;
+    fill: #ff1100;
+    }
+    {{ id }}.color-1 {
+    stroke: #ffee00;
+    fill: #ffee00;
+    }
+    {{ id }}.color-2 {
+    stroke: #66bb44;
+    fill: #66bb44;
+    }
+    {{ id }}.color-3 {
+    stroke: #88bbdd;
+    fill: #88bbdd;
+    }
+    {{ id }}.color-4 {
+    stroke: #0000ff;
+    fill: #0000ff;
+    }
