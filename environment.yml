@@ -1,0 +1,21 @@
+conda create --name ds-viz-env \
+> pandas \
+> numpy \ 
+> matplotlib \
+> seaborn \
+> folium = 0.5.0\
+> bokeh \
+> geoplotlib \
+> plotnine \
+> altair \
+> gleam \
+> plotly \
+> pygal   \
+> openpyxl \ 
+> statsmodels \
+> beautifulSoup \
+> requests \
+> wget \
+> time \
+> xlrd \
+> warnings \
