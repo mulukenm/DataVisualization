@@ -1,2 +1,2 @@
 # DataVisualization
-This is a collection codes of Python for data visualization using mainly NCSES's publicly available data.
+Python has excellent libraries for data visualization. Examples of visualizations in this repository is mainly using NCSES's publicly available data.
