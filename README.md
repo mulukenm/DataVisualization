@@ -1,2 +1,2 @@
 # DataVisualization
-This is a collection codes of Python for data visualization using mainly NCSES's publicly available data.
+This is a collection of data visualizations using Python based on (mainly) NCSES's publicly available data.
